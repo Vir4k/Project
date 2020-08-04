@@ -1,0 +1,14 @@
+{
+  "logs":[{
+    "1":{
+      "desc":"First Time online",
+      "color":["RANDOM"],
+      "date": "07/04/2020"
+    },
+    "2":{
+      "desc":"**Change Log of the Day**\n1. **Coming Soon**\n2. **Coming Soon**\n3. **Coming Soon**\n4. **Coming Soon**\n5. **Coming Soon**",
+      "color":"Random",
+      "date":"07/15/2020"
+    }
+  }]
+}
